@@ -9,7 +9,8 @@
 **Ubicación:** Lima, Perú  
 **Período auditado:** 22/10/2025 - 22/10/2025  
 **Equipo Auditor:** 
-- Auditor Principal: [Nombre del Auditor]
+- Auditor Principal: Mirian Cuadros
+
 - Especialista en Seguridad: Mirian Cuadros
 
 **Fecha del informe:** 22/10/2025
